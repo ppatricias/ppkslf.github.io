@@ -1,4 +1,0 @@
-I applied javasript in the form of a typing effect on the text (index.html on line 42). 
-Where the text is part of the greeting in various languages that I load in an array which is stored in the javascript file (script.js). 
-To call js, I use the code <script src="asset/styles/js/script.js"></script>, 
-which then from the script will run the typing() function and display the text in the array in turn, continuously like a loop.
